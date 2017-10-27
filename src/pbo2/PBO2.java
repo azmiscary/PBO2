@@ -8,6 +8,8 @@ public static void main(String[] args) {
        m.pesan = "Halo guys. . .";
        m.bilbulat = 5;
        m.bildesimal = 3.14;
-    }
+    
+       m.cetakAttribute();
+}
     
 }
